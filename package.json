@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-script": "^2.0.5",
+    "react-scripts": "^4.0.0"
+  }
+}
