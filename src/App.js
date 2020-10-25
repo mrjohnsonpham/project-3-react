@@ -12,7 +12,7 @@ function App() {
       <Test></Test>
       <AndrewsCoolButton anything="Push me baby " jivko="something"></AndrewsCoolButton>
       <AndrewsCoolButton></AndrewsCoolButton>
-      {/* <button class="ui button">Andrew's Button</button> */}
+      
     </div>
   );
 }
