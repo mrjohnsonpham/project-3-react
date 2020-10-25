@@ -1,5 +1,7 @@
 import './App.css';
+import 'semantic-ui-css/semantic.min.css'
 import Test from './components/Test/Test.js';
+import AndrewsCoolButton from './components/Button/Button.js';
 
 function App() {
   return (
@@ -8,6 +10,9 @@ function App() {
         <h1>Jivko is the man!</h1>
       </header>
       <Test></Test>
+      <AndrewsCoolButton anything="Push me baby " jivko="something"></AndrewsCoolButton>
+      <AndrewsCoolButton></AndrewsCoolButton>
+      {/* <button class="ui button">Andrew's Button</button> */}
     </div>
   );
 }
